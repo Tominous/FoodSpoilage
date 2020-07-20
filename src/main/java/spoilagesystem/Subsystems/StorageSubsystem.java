@@ -466,7 +466,7 @@ public class StorageSubsystem {
             return -1;
         }
 
-//        System.out.println("Got value " + value + " from the config line!");
+        System.out.println("Got value " + value + " from the config line!");
         return value;
     }
 
